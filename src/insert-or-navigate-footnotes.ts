@@ -1,7 +1,7 @@
-import {
-	Editor,
-	EditorPosition,
-	MarkdownView
+import { 
+    Editor, 
+    EditorPosition, 
+    MarkdownView
 } from "obsidian";
 
 import FootnotePlugin from "./main";
